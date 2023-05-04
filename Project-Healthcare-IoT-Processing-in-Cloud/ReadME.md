@@ -1,0 +1,1 @@
+The project uses AWS services such as IoT core and DynamoDB along with python. 
